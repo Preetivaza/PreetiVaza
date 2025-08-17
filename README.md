@@ -38,7 +38,7 @@
 
 ## 📌 Projects    
 🔹 **ClassSync – Time Table + Group Project Manager** – Built with Next.js, Node.js & MongoDB.  
-🔹 **Disaster Duty Digitization** – Hackathon project for managing disaster-related duty orders.  
+🔹 **Disaster Duty Management System** – Hackathon project for managing disaster-related duty orders.  
 
 
 ---
