@@ -2,16 +2,14 @@
 💻 Computer Engineering Student | Aspiring Full-Stack Developer | Tech Explorer
 
 🌟 Passionate about building real-world projects with **MERN stack, React, Node.js, and MongoDB**.  
-📚 Currently diving deep into **Backend Development, Next.js, and Cybersecurity**.  
-🎯 My goal is to become a **Full-Stack Developer + Ethical Hacker + App Developer**.  
+📚 Currently diving deep into **Backend , Frontend Development and Next.js**.  
+🎯 My goal is to become a **Full-Stack Developer + App Developer**.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Student at **VGEC (Computer Engineering)**  
-- 🔐 Certified in **Cybersecurity (Great Learning)**  
+- 🎓 Student at **VGEC (Computer Engineering)**    
 - 📱 Interested in **Android Development, Web Apps & AI tools**  
-- 🏆 Participated in **Smart Gujarat Hackathon**  
 - 🌍 I love **coding, traveling, painting, and exploring tech**  
 
 ---
