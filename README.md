@@ -59,7 +59,7 @@ https://github.com/Preetivaza/
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/vazapreeti3015/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PreetiVaza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
 [![Portfolio]()  
 [![Email](https://img.shields.io/badge/Email-preetivaza@example.com-red?style=flat&logo=gmail)](mailto:preetivaza@example.com)  
 
