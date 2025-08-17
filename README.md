@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 - 🎓 Student at **VGEC (Computer Engineering)**    
-- 📱 Interested in **Android Development, Web Apps & AI tools**  
+- 📱 Interested in **Full Stack Development, Web Apps & AI tools**  
 - 🌍 I love **coding, traveling, painting, and exploring tech**  
 
 ---
