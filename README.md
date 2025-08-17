@@ -1,16 +1,68 @@
 ## Hi there 👋
+💻 Computer Engineering Student | Aspiring Full-Stack Developer | Tech Explorer
 
-<!--
-**Preetivaza/PreetiVaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about building real-world projects with **MERN stack, React, Node.js, and MongoDB**.  
+📚 Currently diving deep into **Backend Development, Next.js, and Cybersecurity**.  
+🎯 My goal is to become a **Full-Stack Developer + Ethical Hacker + App Developer**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Student at **VGEC (Computer Engineering)**  
+- 🔐 Certified in **Cybersecurity (Great Learning)**  
+- 📱 Interested in **Android Development, Web Apps & AI tools**  
+- 🏆 Participated in **Smart Gujarat Hackathon**  
+- 🌍 I love **coding, traveling, painting, and exploring tech**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Core:**  
+`C` `C++` `Java` `Python` `JavaScript`
+
+**Frontend:**  
+`React.js` `Next.js` `Tailwind CSS` `HTML` `CSS`
+
+**Backend:**  
+`Node.js` `Express.js`
+
+**Database:**  
+`MongoDB` `MySQL`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Vercel` 
+
+**Security & Auth:**  
+`JWT` `Bcrypt` 
+
+---
+
+## 📌 Projects    
+🔹 **ClassSync – Time Table + Group Project Manager** – Built with Next.js, Node.js & MongoDB.  
+🔹 **Disaster Duty Digitization** – Hackathon project for managing disaster-related duty orders.  
+🔹 **Role-Based Authentication System** – With session management, login history & notification system.  -- not complete
+🔹 **EduGPT – Professor's AI Assistant** – AI-powered assistant for professors using GPT API, LangChain, React, and MongoDB. -- not complete
+
+---
+
+## 🌱 Currently Learning  
+- MERN Stack
+- Next.js (from scratch)  
+- DSA for placements (LeetCode Beginner 🟢)  
+
+---
+
+## 📊 GitHub Stats  
+https://github.com/Preetivaza/
+
+---
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/vazapreeti3015/)  
+[![Portfolio]()  
+[![Email](https://img.shields.io/badge/Email-preetivaza@example.com-red?style=flat&logo=gmail)](mailto:preetivaza@example.com)  
+
+---
+✨ _“Code. Learn. Build. Repeat.”_ ✨
+
