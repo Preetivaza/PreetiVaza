@@ -41,8 +41,7 @@
 ## 📌 Projects    
 🔹 **ClassSync – Time Table + Group Project Manager** – Built with Next.js, Node.js & MongoDB.  
 🔹 **Disaster Duty Digitization** – Hackathon project for managing disaster-related duty orders.  
-🔹 **Role-Based Authentication System** – With session management, login history & notification system.  -- not complete
-🔹 **EduGPT – Professor's AI Assistant** – AI-powered assistant for professors using GPT API, LangChain, React, and MongoDB. -- not complete
+
 
 ---
 
