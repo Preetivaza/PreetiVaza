@@ -76,8 +76,8 @@
 ## 🌱 Currently Learning  
 
 - Deep MERN Architecture  
-- Next.js Advanced Features  
-- DSA (LeetCode aiming 🟡 soon)
+- Next.js  
+- DSA 
 
 ---
 
