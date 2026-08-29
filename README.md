@@ -118,8 +118,7 @@ An AI-powered research system that uses LLMs, agents and orchestrated workflows 
 
 ## 🌾 AgriSense — AI Crop Monitoring
 
-🏆 **Smart India Hackathon Project**
-
+🏆 AI ML and Full Stack
 An AI-powered agriculture solution focused on crop monitoring and data-driven agricultural insights.
 
 ### ✨ Highlights
