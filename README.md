@@ -41,7 +41,7 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### 🌐 Full-Stack Development
