@@ -147,17 +147,11 @@ Exploring the  **Artificial Intelligence** — from classical Machine Learning t
 
 Data preprocessing • EDA • Regression • Classification • Model Evaluation
 
-### Generative AI
 
-`LLMs` `LangChain` `AI Agents` `LLM APIs`
-
-LLM applications • Agentic workflows • Multi-agent systems • AI research systems
-
----
 
 ## 🌱 Currently Exploring
 
-**Full-Stack Development • Next.js • Machine Learning • Generative AI • AI Agents • DSA**
+**Full-Stack Development • Next.js • Machine Learning • Generative AI • AI Agents • LLMS**
 
 ---
 
@@ -186,11 +180,11 @@ LLM applications • Agentic workflows • Multi-agent systems • AI research s
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vazapreeti3015/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:preetivaza@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
