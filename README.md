@@ -31,7 +31,7 @@
 ## 👩‍💻 About Me
 
 > 🎓 Computer Engineering student who enjoys **building useful things with code**.
-> 💻 Working across **Full-Stack Development, AI/ML and Generative AI**.
+> 💻 Working across **Full-Stack Development, AI/ML**.
 > 🚀 Learn. Build. Improve.
 
 ---
@@ -58,7 +58,7 @@
 
 ### 🤖 AI / ML & GenAI
 
-**Python • NumPy • Pandas • Scikit-learn • Machine Learning • LangChain • LLM APIs • AI Agents • Generative AI**
+**Python • NumPy • Pandas • Scikit-learn • Machine Learning • LangChain • LLM APIs I**
 
 ### 🔧 Tools & Technologies
 
