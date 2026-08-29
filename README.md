@@ -135,59 +135,11 @@ An AI-powered agriculture solution focused on crop monitoring and data-driven ag
 
 ---
 
-## 📦 Inventory Management System
 
-**MERN Stack | Full-Stack Application**
-
-A centralized web application for managing products, stock and inventory operations.
-
-**Highlights:** JWT Authentication • Role-Based Access Control • CRUD • Search & Filtering • REST APIs • MongoDB
-
-**Tech:** React • Node.js • Express.js • MongoDB • JWT
-
-🔗 **GitHub:** `Add Repository Link`
-
----
-
-## 🚨 Disaster Duty Management System
-
-🏆 **Hackathon Project**
-
-A web-based application designed to digitize disaster-related duty orders and streamline administrative workflows.
-
-**Tech:** `Add Actual Technologies`
-
-🔗 **GitHub:** `Add Repository Link`
-
----
-
-## 🌱 Crop Yield Prediction
-
-**Machine Learning Project**
-
-A regression-based ML project for predicting crop yield using agricultural data.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Regression
-
-🔗 **GitHub:** `Add Repository Link`
-
----
-
-## 🌦️ Weather Prediction
-
-**Machine Learning Project**
-
-A classification-based ML project for predicting weather-related outcomes using historical data.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Classification
-
-🔗 **GitHub:** `Add Repository Link`
-
----
 
 # 🤖 AI / ML
 
-Exploring the intersection of **Artificial Intelligence and Software Engineering** — from classical Machine Learning to LLM-powered applications.
+Exploring the  **Artificial Intelligence** — from classical Machine Learning to LLM-powered applications.
 
 ### Machine Learning
 
